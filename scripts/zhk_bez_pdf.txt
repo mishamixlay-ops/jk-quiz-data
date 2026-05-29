@@ -1,0 +1,316 @@
+ЖК без PDF в S3 (78 шт.)
+Бакет: royaltyplace/jk_base/
+==================================================
+
+Старт продаж
+    слаг: ekokvartal-nega
+    url:  https://spb.trendagent.ru/object/ekokvartal-nega
+
+Старт продаж
+    слаг: apartotel-avenir-industrial
+    url:  https://spb.trendagent.ru/object/apartotel-avenir-industrial
+
+Старт продаж
+    слаг: nigilist
+    url:  https://spb.trendagent.ru/object/nigilist
+
+Старт продаж
+    слаг: dubrovskiy
+    url:  https://spb.trendagent.ru/object/dubrovskiy
+
+Старт продаж
+    слаг: kronfort
+    url:  https://spb.trendagent.ru/object/kronfort
+
+Старт продаж
+    слаг: civilizaciya-na-neve
+    url:  https://spb.trendagent.ru/object/civilizaciya-na-neve
+
+Старт продаж
+    слаг: apartotel-well-moskovskiy
+    url:  https://spb.trendagent.ru/object/apartotel-well-moskovskiy
+
+Эксклюзивно на TA
+    слаг: novaya-zemlya1
+    url:  https://spb.trendagent.ru/object/novaya-zemlya1
+
+Старт продаж
+    слаг: art-plaza
+    url:  https://spb.trendagent.ru/object/art-plaza
+
+Новый ЖК
+    слаг: saan-moskovskie-vorota
+    url:  https://spb.trendagent.ru/object/saan-moskovskie-vorota
+
+Старт продаж
+    слаг: prostranstvo-by-avenue-apart
+    url:  https://spb.trendagent.ru/object/prostranstvo-by-avenue-apart
+
+Старт продаж
+    слаг: ohtinskie-vysoty
+    url:  https://spb.trendagent.ru/object/ohtinskie-vysoty
+
+Старт продаж
+    слаг: mosko
+    url:  https://spb.trendagent.ru/object/mosko
+
+Старт продаж
+    слаг: bolshaya-ohta
+    url:  https://spb.trendagent.ru/object/bolshaya-ohta
+
+Старт продаж
+    слаг: m36
+    url:  https://spb.trendagent.ru/object/m36
+
+Старт продаж
+    слаг: trend-145-16
+    url:  https://spb.trendagent.ru/object/trend-145-16
+
+Старт продаж
+    слаг: point-toksovo
+    url:  https://spb.trendagent.ru/object/point-toksovo
+
+Старт продаж
+    слаг: oro-ot-akvilon
+    url:  https://spb.trendagent.ru/object/oro-ot-akvilon
+
+Старт продаж
+    слаг: bulvar-grina
+    url:  https://spb.trendagent.ru/object/bulvar-grina
+
+Старт продаж
+    слаг: vzletnaya-16
+    url:  https://spb.trendagent.ru/object/vzletnaya-16
+
+Старт продаж
+    слаг: belaya-dacha
+    url:  https://spb.trendagent.ru/object/belaya-dacha
+
+Старт продаж
+    слаг: parusnaya-1
+    url:  https://spb.trendagent.ru/object/parusnaya-1
+
+Старт продаж
+    слаг: shkiperskiy-19
+    url:  https://spb.trendagent.ru/object/shkiperskiy-19
+
+Старт продаж
+    слаг: severnyi-veter
+    url:  https://spb.trendagent.ru/object/severnyi-veter
+
+Эксклюзивно на TA
+    слаг: yard_residence
+    url:  https://spb.trendagent.ru/object/yard_residence
+
+Старт продаж
+    слаг: izmaylovskiy
+    url:  https://spb.trendagent.ru/object/izmaylovskiy
+
+Старт продаж
+    слаг: litera
+    url:  https://spb.trendagent.ru/object/litera
+
+Эксклюзивно на TA
+    слаг: znatnyy
+    url:  https://spb.trendagent.ru/object/znatnyy
+
+Старт продаж
+    слаг: dom-na-kurskoy
+    url:  https://spb.trendagent.ru/object/dom-na-kurskoy
+
+Старт продаж
+    слаг: morskaya-rivera
+    url:  https://spb.trendagent.ru/object/morskaya-rivera
+
+Старт продаж
+    слаг: apartotel-gler
+    url:  https://spb.trendagent.ru/object/apartotel-gler
+
+Старт продаж
+    слаг: assambleya
+    url:  https://spb.trendagent.ru/object/assambleya
+
+Эксклюзивно на TA
+    слаг: antverpen
+    url:  https://spb.trendagent.ru/object/antverpen
+
+Старт продаж
+    слаг: dom-na-bolshom-smolenskom
+    url:  https://spb.trendagent.ru/object/dom-na-bolshom-smolenskom
+
+Старт продаж
+    слаг: kollekcionnyj-dom-1919
+    url:  https://spb.trendagent.ru/object/kollekcionnyj-dom-1919
+
+Эксклюзивно на TA
+    слаг: legenda-vasilevskogo
+    url:  https://spb.trendagent.ru/object/legenda-vasilevskogo
+
+Эксклюзивно на TA
+    слаг: gildiya
+    url:  https://spb.trendagent.ru/object/gildiya
+
+Эксклюзивно на TA
+    слаг: legenda-na-ohte
+    url:  https://spb.trendagent.ru/object/legenda-na-ohte
+
+Старт продаж
+    слаг: lermontovskiy-54
+    url:  https://spb.trendagent.ru/object/lermontovskiy-54
+
+Старт продаж
+    слаг: avant
+    url:  https://spb.trendagent.ru/object/avant
+
+Старт продаж
+    слаг: ostrov-pervyh
+    url:  https://spb.trendagent.ru/object/ostrov-pervyh
+
+Старт продаж
+    слаг: galernaya-gavan
+    url:  https://spb.trendagent.ru/object/galernaya-gavan
+
+Эксклюзивно на TA
+    слаг: proekt-63
+    url:  https://spb.trendagent.ru/object/proekt-63
+
+Старт продаж
+    слаг: trend-144-10
+    url:  https://spb.trendagent.ru/object/trend-144-10
+
+Старт продаж
+    слаг: neva_haus
+    url:  https://spb.trendagent.ru/object/neva_haus
+
+Старт продаж
+    слаг: defans
+    url:  https://spb.trendagent.ru/object/defans
+
+Старт продаж
+    слаг: dom-na-bronnickoy
+    url:  https://spb.trendagent.ru/object/dom-na-bronnickoy
+
+Старт продаж
+    слаг: svetlanovskiy-45
+    url:  https://spb.trendagent.ru/object/svetlanovskiy-45
+
+Старт продаж
+    слаг: domnamirgorodskoi
+    url:  https://spb.trendagent.ru/object/domnamirgorodskoi
+
+Старт продаж
+    слаг: moiseenko-10
+    url:  https://spb.trendagent.ru/object/moiseenko-10
+
+Старт продаж
+    слаг: alpen
+    url:  https://spb.trendagent.ru/object/alpen
+
+Старт продаж
+    слаг: trend-147-18
+    url:  https://spb.trendagent.ru/object/trend-147-18
+
+Старт продаж
+    слаг: ministr
+    url:  https://spb.trendagent.ru/object/ministr
+
+Эксклюзивно на TA
+    слаг: vi-kvartal
+    url:  https://spb.trendagent.ru/object/vi-kvartal
+
+Старт продаж
+    слаг: madonna-benua
+    url:  https://spb.trendagent.ru/object/madonna-benua
+
+Старт продаж
+    слаг: trend-147-17
+    url:  https://spb.trendagent.ru/object/trend-147-17
+
+Эксклюзивно на TA
+    слаг: chernaya-rechka-41
+    url:  https://spb.trendagent.ru/object/chernaya-rechka-41
+
+Эксклюзивно на TA
+    слаг: sampsonievskiy-32
+    url:  https://spb.trendagent.ru/object/sampsonievskiy-32
+
+Старт продаж
+    слаг: glorax-aura-vasileostrovsky
+    url:  https://spb.trendagent.ru/object/glorax-aura-vasileostrovsky
+
+Старт продаж
+    слаг: amo
+    url:  https://spb.trendagent.ru/object/amo
+
+Старт продаж
+    слаг: vizioner
+    url:  https://spb.trendagent.ru/object/vizioner
+
+Старт продаж
+    слаг: bakunina-33
+    url:  https://spb.trendagent.ru/object/bakunina-33
+
+Старт продаж
+    слаг: akvatoriya
+    url:  https://spb.trendagent.ru/object/akvatoriya
+
+Старт продаж
+    слаг: morskaya-naberezhnaya
+    url:  https://spb.trendagent.ru/object/morskaya-naberezhnaya
+
+Старт продаж
+    слаг: repin
+    url:  https://spb.trendagent.ru/object/repin
+
+Старт продаж
+    слаг: severnaya-korona
+    url:  https://spb.trendagent.ru/object/severnaya-korona
+
+Старт продаж
+    слаг: ldm
+    url:  https://spb.trendagent.ru/object/ldm
+
+Старт продаж
+    слаг: kollekcioner
+    url:  https://spb.trendagent.ru/object/kollekcioner
+
+Старт продаж
+    слаг: manufaktura-james-beck
+    url:  https://spb.trendagent.ru/object/manufaktura-james-beck
+
+Старт продаж
+    слаг: mariinka-deluxe
+    url:  https://spb.trendagent.ru/object/mariinka-deluxe
+
+Старт продаж
+    слаг: roshchino-rezidens
+    url:  https://spb.trendagent.ru/object/roshchino-rezidens
+
+Эксклюзивно на TA
+    слаг: maloohtinskiy-68
+    url:  https://spb.trendagent.ru/object/maloohtinskiy-68
+
+Эксклюзивно на TA
+    слаг: manhetten
+    url:  https://spb.trendagent.ru/object/manhetten
+
+Эксклюзивно на TA
+    слаг: bolshoy-67
+    url:  https://spb.trendagent.ru/object/bolshoy-67
+
+Эксклюзивно на TA
+    слаг: institutskiy-16
+    url:  https://spb.trendagent.ru/object/institutskiy-16
+
+Старт продаж
+    слаг: whitehouse
+    url:  https://spb.trendagent.ru/object/whitehouse
+
+Эксклюзивно на TA
+    слаг: astrum
+    url:  https://spb.trendagent.ru/object/astrum
+
+Старт продаж
+    слаг: tri-gracii
+    url:  https://spb.trendagent.ru/object/tri-gracii
+
